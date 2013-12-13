@@ -1,0 +1,40 @@
+{
+  "name": "console2winston",
+  "description": "redirect console to winston"
+  "homepage": "",
+  "keywords": [
+    "log",
+  ],
+  "author": {
+    "name": "pioboye"
+    "email": "piboye@qq.com"
+  },
+  "dependencies":{
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/piboye/console2winston.git" 
+  },
+  "main": "console2winston.js",
+  "version": "1.0.0",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://raw.github.com/jashkenas/underscore/master/LICENSE"
+    }
+  ],
+  "files": [
+    "console2winston.js",
+    "LICENSE"
+  ],
+  "readme": "",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/piboye/console2winston/issues"
+  },
+  "_id": "console2winston@1.0.0",
+  "dist": {
+    "shasum": "47807d7fa4f432cbb67192c865db21204e506096"
+  },
+  "_from": "console2winston@",
+}
