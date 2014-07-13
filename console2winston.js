@@ -39,9 +39,10 @@ function log(sl, level, args) {
            case "info": 
                my_console.info(out);
                break;
-           case "debug":
+           /*case "debug":
                my_console.debug(out);
                break;
+           */   // no console.debug function
            case "error":
                my_console.error(out);
                break;
